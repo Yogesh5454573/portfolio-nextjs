@@ -1,7 +1,7 @@
 import Link from 'next/link';
-export default function header(){
+export default function header() {
   return (
-   <header className="header">
+    <header className="header">
       <div className="navbar-area">
         <div className="container">
           <div className="row align-items-center">
@@ -15,17 +15,16 @@ export default function header(){
                   <span className="toggler-icon"></span>
                   <span className="toggler-icon"></span>
                 </button>
-
                 <div className="collapse navbar-collapse sub-menu-bar" id="navbarSupportedContent">
                   <ul id="nav" className="navbar-nav ms-auto">
                     <li className="nav-item">
-                      <Link href="/home">Home</Link>
-                    </li>
-                    <li className="nav-item">
-                      <Link href="/aboutUs">About</Link>
+                      <Link href="/aboutUs">About Us</Link>
                     </li>
                     <li className="nav-item">
                       <Link href="/projects">Projects</Link>
+                    </li>
+                    <li className="nav-item">
+                      <Link href="/skills">Skills</Link>
                     </li>
                     <li className="nav-item">
                       <Link href="/experience">Experience</Link>
