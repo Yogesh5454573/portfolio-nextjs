@@ -1,8 +1,8 @@
 import Image from "next/image";
-export default function Page(){
+export default function Page() {
   return (
     <>
-    <section className="counter-up-section pt-150">
+      <section className="counter-up-section pt-150">
         <div className="container">
           <div className="row">
             <div className="col-lg-6">
@@ -87,6 +87,5 @@ export default function Page(){
         </div>
       </section>
     </>
-    
   );
 }
