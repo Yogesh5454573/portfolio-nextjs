@@ -1,7 +1,7 @@
 import Image from "next/image";
 export default function Page() {
   return (
-    <section className="about-section pt-150">
+    <section className="about-section pt-100">
       <div className="container">
         <div className="row">
           <div className="col-lg-6">

@@ -1,6 +1,6 @@
 export default function Page() {
   return (
-    <section id="service" className="service-section img-bg pt-100 pb-100 mt-150">
+    <section id="service" className="service-section img-bg pt-100 pb-100">
       <div className="container">
         <div className="row justify-content-center">
           <div className="col-xxl-5 col-xl-6 col-lg-7 col-md-10">
