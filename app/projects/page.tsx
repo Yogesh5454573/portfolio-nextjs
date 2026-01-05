@@ -5,7 +5,7 @@ export default function Page() {
         <div className="row justify-content-center">
           <div className="col-xxl-5 col-xl-6 col-lg-7 col-md-10">
             <div className="section-title text-center mb-50">
-              <h1>Our services</h1>
+              <h1>My Projects</h1>
               <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt labore.</p>
             </div>
           </div>

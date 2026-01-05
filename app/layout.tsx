@@ -2,7 +2,6 @@ import Header from "./components/Header";
 import Footer from "./components/Footer";
 import AboutUs from "./aboutUs/page";
 import Projects from "./projects/page";
-import Home from "./home/page";
 import Script from "next/script";
 import Image from "next/image";
 
